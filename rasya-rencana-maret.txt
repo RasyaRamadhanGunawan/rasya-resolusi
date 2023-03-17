@@ -3,4 +3,8 @@ RENCANA RASYA MARET
 -Belajar Javascript
  * ES6
  * Framework Javascript
+   ^Vue
  -Struktur Data Dasar
+ -PHP Frameworks
+  ^Laravel
+  -Python
